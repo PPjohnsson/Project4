@@ -1,0 +1,86 @@
+San Francisco,51,Winter
+Phoenix,57,Spring
+Houston,53,Winter
+Los Angeles,59,Summer
+Seattle,43,Fall
+Charlotte,41,Summer
+San Antonio,52,Fall
+Dallas,48,Winter
+Boston,33,Summer
+St. Louis,34,Winter
+Miami,71,Fall
+Minneapolis,11,Winter
+Washington D.C.,38,Summer
+Indianapolis,32,Spring
+Philadelphia,34,Winter
+New Orleans,58,Summer
+Austin,52,Fall
+Columbus,34,Winter
+Pittsburgh,32,Spring
+Tampa,63,Fall
+San Diego,60,Winter
+Nashville,40,Winter
+Denver,35,Summer
+Orlando,62,Spring
+Detroit,28,Fall
+Raleigh,44,Winter
+Cincinnati,33,Winter
+Kansas City,31,Spring
+Salt Lake City,29,Fall
+Portland,44,Summer
+Chicago,28,Fall
+Memphis,42,Spring
+Atlanta,45,Winter
+Los Angeles,73,Fall
+San Jose,62,Winter
+New York City,35,Spring
+Philadelphia,50,Fall
+Seattle,56,Summer
+Miami,84,Spring
+San Francisco,60,Spring
+Houston,84,Summer
+Charlotte,60,Fall
+Dallas,81,Summer
+Phoenix,101,Summer
+Washington D.C.,68,Winter
+Nashville,65,Spring
+Las Vegas,85,Spring
+Indianapolis,63,Fall
+Tampa,79,Winter
+Orlando,68,Fall
+Austin,75,Summer
+Boston,62,Fall
+San Antonio,75,Spring
+Columbus,63,Summer
+Seattle,75,Spring
+Pittsburgh,62,Winter
+Raleigh,64,Spring
+Detroit,61,Summer
+Chicago,72,Summer
+St. Louis,85,Summer
+San Jose,78,Fall
+Memphis,82,Summer
+Salt Lake City,68,Spring
+Portland,64,Fall
+Atlanta,85,Spring
+Denver,65,Fall
+Minneapolis,60,Summer
+Philadelphia,77,Summer
+Kansas City,75,Winter
+Los Angeles,70,Fall
+Miami,90,Summer
+San Francisco,65,Fall
+Charlotte,70,Spring
+Houston,68,Spring
+Tampa,85,Summer
+Dallas,78,Spring
+Phoenix,88,Fall
+New Orleans,75,Fall
+Washington D.C.,50,Fall
+Nashville,70,Summer
+Orlando,84,Summer
+San Antonio,84,Summer
+Columbus,73,Spring
+Seattle,53,Winter
+Pittsburgh,49,Summer
+Boston,73,Summer
